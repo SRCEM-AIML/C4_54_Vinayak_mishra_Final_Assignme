@@ -1,4 +1,4 @@
-# 📦 C_61_Yash Dubey Final Assignment
+# 📦 C_54_Vinayak Mishra Final Assignment
 
 ![Flask App](https://img.shields.io/badge/Flask-2.2.5-blue) ![Django App](https://img.shields.io/badge/Django-4.2-green) ![Docker](https://img.shields.io/badge/Docker-Compose-blue) ![Python](https://img.shields.io/badge/Python-3.10-yellow)
 
